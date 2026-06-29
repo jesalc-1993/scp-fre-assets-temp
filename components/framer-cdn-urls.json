@@ -1,0 +1,22 @@
+{
+  "heatmapMatrix": {
+    "src": "https://framerusercontent.com/images/CiDzMTOTlqb8i58GD97RMBD9Cc.png",
+    "alt": "SCP Heatmap Matrix \u2014 default state"
+  },
+  "exceptionQueue": {
+    "src": "https://framerusercontent.com/images/O3tQurDQO9hvKbkSPyCtpl0ftgg.png",
+    "alt": "SCP Exception Queue \u2014 default state"
+  },
+  "recentExceptions": {
+    "src": "https://framerusercontent.com/images/uSbncSQsWtIbbpZ2Saae6hGFs.png",
+    "alt": "SCP Recent Exceptions Table \u2014 default state"
+  },
+  "tableDrillStack": {
+    "src": "https://framerusercontent.com/images/skGVCz4RUigF5MHvXD4Ev1DSqpI.png",
+    "alt": "SCP Table Drill Stack \u2014 default state"
+  },
+  "rootCauseDrawer": {
+    "src": "https://framerusercontent.com/images/v7RyiwVD3Qn4HsivWEmgJo9grJ0.png",
+    "alt": "SCP Root Cause Drawer \u2014 default state"
+  }
+}
